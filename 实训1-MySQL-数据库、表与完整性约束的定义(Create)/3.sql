@@ -14,4 +14,4 @@ create table staff(
     salary numeric(8,2),
     deptNo int,
     constraint FK_staff_deptNo foreign key(deptNo) references dept(deptNo)
-);
+)

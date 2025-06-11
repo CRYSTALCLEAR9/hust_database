@@ -1,1 +1,1 @@
-create database beijing2022;
+create database beijing2022
