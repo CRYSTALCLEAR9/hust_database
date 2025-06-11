@@ -7,4 +7,4 @@ create table t_emp(
     deptId int,
     salary float,
     constraint PK_t_emp primary key(id)
-)
+);
